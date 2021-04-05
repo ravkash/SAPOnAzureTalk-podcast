@@ -8,7 +8,7 @@
 <br><br>
 <div>
       <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZmNhNmY5NC9wb2RjYXN0L3Jzcw">
-        <img src="https://www.gstatic.com/podcasts_console/promote/English_EN/EN_Google_Podcasts_Badge.svg" width="150" height="38" alt="Listen on Google Podcasts">
+        <img src="https://www.gstatic.com/podcasts_console/promote/English_EN/EN_Google_Podcasts_Badge.svg" width="250px" height="83px" alt="Listen on Google Podcasts">
       </a>
     </div>
 
