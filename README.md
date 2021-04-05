@@ -3,6 +3,6 @@
 
  
   
-<iframe src="https://open.spotify.com/embed-podcast/show/4KLJUFrqkSq60gdN1fOlNz" width="100%" height="232" frameborder="0" allow="encrypted-media" style="fontColor: #008080;"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/show/4KLJUFrqkSq60gdN1fOlNz" width="100%" height="232" frameborder="0" allowtransparency="false" allow="encrypted-media" style="fontColor: #008080;"></iframe>
 
 
